@@ -1,5 +1,4 @@
 # batch
-window batch file
 
 #한줄코딩  #나도개발자 
 
